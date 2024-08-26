@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/video-walkthrough-of-sea-monster-crowfunding-application-ZIXdWlV' title='Video Walkthrough of Sea Monster Crowdfunding Application' width='' alt='Video Walkthrough' />
+<embed src='https://imgur.com/gallery/video-walkthrough-of-sea-monster-crowfunding-application-ZIXdWlV' title='Video Walkthrough of Sea Monster Crowdfunding Application' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap 
 
