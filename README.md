@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough][https://imgur.com/rZ5oOk6.gif]
+https://imgur.com/gallery/video-walkthrough-of-sea-monster-crowfunding-application-ZIXdWlV
 
 GIF created with LiceCap 
 
