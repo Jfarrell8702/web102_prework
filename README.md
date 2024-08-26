@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough]([https://i.imgur.com/abcdef.gif](https://imgur.com/rZ5oOk6)](https://imgur.com/rZ5oOk6))
+![Video Walkthrough][https://imgur.com/rZ5oOk6.gif]
 
 GIF created with LiceCap 
 
